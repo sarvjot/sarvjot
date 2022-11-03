@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sarvjot
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me: [http://sarvjot.github.io](https://sarvjot.github.io/)

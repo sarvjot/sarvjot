@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvjot&label=Profile%20views&color=0e75b6&style=flat" alt="blastoise" /> </p>
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS, NodeJS
+- 🌱 I’m know ReactJS, NodeJS, MongoDB, currently learning Django
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: [http://sarvjot.github.io](https://sarvjot.github.io/)
 
